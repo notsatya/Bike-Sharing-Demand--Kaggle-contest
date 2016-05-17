@@ -15,3 +15,6 @@ Ntree(model) | Ntree(predict) | ID | S | RMSLE|
 500|500|20|0.01|0.457|
 2000|2000|5|0.001|0.6069|
 2000|2000|5|0.1|0.4385|
+
+
+* The 'featureEgnineer' function in this code has been taken from https://github.com/Autodidact24/Bike-sharing-demand/blob/master/randomForest_Prediction_binning.R
