@@ -1,7 +1,7 @@
 ## Bike Sharing Demand (Kaggle contest)
 
-* The background informatioan of this Kaggle contest can found at this [link] {https://www.kaggle.com/c/bike-sharing-demand}
-* This R code uses Graident Boosting classification tree to predict the test data in the Bike Sharing Demand Kaggle contest 
+* The background informatioan of this Kaggle contest can found at this link https://www.kaggle.com/c/bike-sharing-demand
+* This R code uses Graident Boosting classification tree to predict the test data in this contest 
 * Below is a table showing the RMSLE score for different interaction dept(ID), shrinkage(S), number of trees in model building and prediction
 
 
